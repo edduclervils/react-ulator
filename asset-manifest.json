@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ulator/static/css/main.ec217cb7.css",
+    "main.js": "/react-ulator/static/js/main.61d0e85f.js",
+    "index.html": "/react-ulator/index.html",
+    "main.ec217cb7.css.map": "/react-ulator/static/css/main.ec217cb7.css.map",
+    "main.61d0e85f.js.map": "/react-ulator/static/js/main.61d0e85f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec217cb7.css",
+    "static/js/main.61d0e85f.js"
+  ]
+}
